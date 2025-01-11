@@ -37,5 +37,5 @@
 <br/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yoelsolca&theme=dark&hide_border=false&include_all_commits=true&count_private=true)</br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=YoelSolca&show_icons=true&theme=dark)</br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoelSolca&layout=donut&theme=dark)](https://github.com/YoelSolca/github-readme-stats)
