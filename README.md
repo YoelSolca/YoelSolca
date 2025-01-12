@@ -37,5 +37,5 @@
 <br/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YoelSolca&show_icons=true&theme=dark)</br></br>
+[![Yoel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yoelsolca&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/yoelsolca/github-readme-stats#gh-dark-mode-only)</br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoelSolca&layout=donut&theme=dark)](https://github.com/YoelSolca/github-readme-stats)
