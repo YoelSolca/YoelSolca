@@ -21,8 +21,10 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![MUI](https://img.shields.io/badge/MUI-%23007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -36,6 +38,11 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 <br/>
 
-# 📊 GitHub Stats:
-[![Yoel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yoelsolca&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/yoelsolca/github-readme-stats#gh-dark-mode-only)</br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoelSolca&layout=donut&theme=dark)](https://github.com/YoelSolca/github-readme-stats)
+
+📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=yoelsolca&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Yoel's GitHub Stats"/>
+&nbsp;&nbsp;&nbsp;
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yoelsolca&layout=donut&theme=dark&hide_border=true&bg_color=0D1117" alt="Most Used Languages"/>
+</p>
